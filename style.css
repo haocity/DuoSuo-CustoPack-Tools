@@ -1,0 +1,23 @@
+#ds-thread{margin-top:20px}
+#ds-thread #ds-reset .ds-replybox .ds-avatar img{display:none}
+/*f12看看选择自己的名字里面的ID 利用after生成伪元素*/
+#ds-thread #ds-reset a.ds-user-name[data-user-id='多说ID']:after{margin:0 10px;padding-right:5px;padding-left:5px;border-radius:3px;background:#00A7DE;color:#fff;content:"Admin"}
+#ds-thread #ds-reset .ds-post-button{border:1px solid #0381AA;border-radius:2px;background-color:#00A7DE;background-image:url();color:#fff;cursor:pointer}
+#ds-thread #ds-reset .ds-post-button:hover{color:#E6EBEF}
+#ds-thread #ds-reset .ds-post-button{width:100%}
+#ds-wrapper #ds-reset .ds-dialog-footer{display:none}
+#ds-wrapper #ds-reset button{border:1px solid #0381AA;border-radius:2px;background-color:#00A7DE;background-image:url();color:#fff;cursor:pointer}
+#ds-thread #ds-reset .ds-powered-by a{display:none}
+#ds-thread #ds-reset .ds-toolbar-buttons{display:none}
+.ds-toolbar-button.ds-add-emote{display:none}
+#ds-thread #ds-reset .ds-login-buttons{display:none}
+#ds-reset .ds-avatar img{width:40px;height:40px;border-radius:50%}
+#ds-thread #ds-reset .ds-comments-tabs{display:none}
+#ds-thread #ds-reset .ds-sort{display:none}
+#ds-thread #ds-reset .ds-replybox{padding:0 5px 0 5px}
+#ds-thread #ds-reset .ds-comments{border:0}
+#ds-thread #ds-reset li.ds-post{border:0}
+#ds-thread #ds-reset .ds-toolbar{position:absolute;top:0;border-top:1px solid rgba(0,0,0,.13)}
+#ds-thread #ds-reset .ds-meta{z-index:6;width:200px;border-bottom:0 solid rgba(0,0,0,.13)}
+#ds-thread #ds-reset a.ds-like-thread-button{border:0 solid #ccc;background-color:inherit;background-image:inherit}
+a.ds-post-likes{display:none}
