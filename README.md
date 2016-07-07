@@ -7,3 +7,5 @@ face.js    give Duosuo comment add to tieba face  给你的多说添加表情框
 
 <img src="https://www.haotown.cn/usr/uploads/2016/07/07/1467892164117012.png">
 
+演示地址
+https://www.haotown.cn/usr/uploads/2016/07/07/1467892164117012.png
