@@ -11,5 +11,5 @@ face.js    give Duosuo comment add to tieba face  给你的多说添加表情框
 https://www.haotown.cn/usr/uploads/2016/07/07/1467892164117012.png
 
 使用方法 
-css复制到多说控制台里的自定义css
+css复制到多说控制台里的自定义css</br>
 js在多说代码后面调用即可
